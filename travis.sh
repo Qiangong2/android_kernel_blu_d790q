@@ -1,4 +1,4 @@
-git clone https://github.com/SMAICP/arm-eabi-4.8
+git clone https://github.com/Qiangong2/bluapprovedarmeabi4-8
 export CROSS_COMPILE=./arm-eabi-4.8/bin/arm-eabi- 
 export ARCH=arm
 export KBUILD_BUILD_USER="Qiangong2"
